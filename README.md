@@ -17,4 +17,6 @@ I dont know if I'm right but it's harder to target specific devices or sizes. In
 # I'm trying to use NATURAL breakpoints
 The 'breakpoints' become the actual point at which your mobile design begins to 'break' i.e. cease to be usable or visually pleasing. Once I have a good working mobile site, without media queries, I wil stop being concerned about specific sizes and simply add media queries that handle successively larger viewports.
 
+# Mobile task => https://github.com/Dimitar-Iliev7/Bluewindow-mobile/tree/main
+
 ![tablet-solution](https://user-images.githubusercontent.com/117073615/225906608-bc16ea21-0b9e-42e7-b15e-379174f85beb.png)
