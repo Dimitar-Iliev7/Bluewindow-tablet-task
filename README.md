@@ -7,7 +7,7 @@ In response to the comment, min-width is standard in "mobile-first" design, wher
 
 # NOTE
 
-I dont know if I'm right but it's harder to target specific devices or sizez. In the project I'm trying to reframe the term 'Breakpoint':
+I dont know if I'm right but it's harder to target specific devices or sizes. In the project I'm trying to reframe the term 'Breakpoint':
 
 1: Develop the site for mobile first using percentages or ems, not pixels. (in the project I'm using both.)
 2: Then try it in larger viewport and note where it begins to fail. (I have never own or worked on Tablet so it was very challenging for me to visualise and solve the problem)
